@@ -1,4 +1,9 @@
+# Deployment link
+
+Access the app from here --> [https://factwise-assessment-2.vercel.app/]
+
 # Factwise
+
 You are a famous hacker who has access to a list of the world's most famous celebrities.
 You have to create a system where you can view and edit their details to hide their public presence.
 
